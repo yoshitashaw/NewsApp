@@ -1,7 +1,8 @@
+This is a News App to give you a daily dose of news. 
 
 
-
-
+The languages and tools used in this webpage are:
+[![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,react)](https://skillicons.dev)
 
 # Getting Started with Create React App
 
