@@ -5,8 +5,8 @@ export class NewsItem extends Component {
         let {title, description, imageUrl, url} = this.props;
         return(
             <div className= "my-3">
-                <div className="card" style={{width: "18rem"}}>
-                <img src={imageUrl? imageUrl: "https://img.freepik.com/free-photo/purple-osteospermum-daisy-flower_1373-16.jpg?size=626&ext=jpg"} /> 
+                <div className="card" >
+                 <img src={imageUrl? imageUrl: "https://img.freepik.com/free-photo/purple-osteospermum-daisy-flower_1373-16.jpg?size=626&ext=jpg"} alt="newsImg" />  {/*if the imageUrl value is null give a default image Url to it */}
                     <div className="card-body">
                         <h5 className="card-title">{title}</h5>
                         <p className="card-text">{description}</p>
