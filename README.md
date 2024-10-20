@@ -1,5 +1,6 @@
 This is a News App to give you a daily dose of news. The project delves you into the Top-Headlines of Indian news to keep you up to date. It fetches day-to-day news from News API using the API key. 
 The languages and tools used in this webpage are:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,bootstrap,react)](https://skillicons.dev)
 
 # Getting Started with Create React App
